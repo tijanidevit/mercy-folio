@@ -5,7 +5,7 @@ tags:
   - Development
 excerpt: Let me take you through how I used this Gridsome starter themme.
 date: 2021-01-28T19:22:21.943Z
-featuredImage: uploads/computer-science.png
+featuredImage: uploads/computer-science.jpg
 ---
 
 # Gridsome Starter with Netlify CMS & Buefy
