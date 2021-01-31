@@ -5,7 +5,7 @@ tags:
   - Development
   - Design
   - UX
-excerpt: The most loremy of ipsums
+excerpt: It’s my fourth and final year studying Computer Science at FPI and I am already trying to juggle and prioritise multiple pieces of coursework
 date: 2021-01-29T22:01:10.795Z
 featuredImage: uploads/Federal-Polytechnic-Ilaro.jpg
 ---
